@@ -10,6 +10,9 @@ class MainActivity : AppCompatActivity() {
         val b2 = ""
         setContentView(R.layout.activity_main)
 
+        val aaa = ""
+
+
         val bbb = ""
     }
 }
