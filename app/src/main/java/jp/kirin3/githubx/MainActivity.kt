@@ -11,13 +11,13 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val aaa = ""
-        val bbb = ""
+        val bbbxxx = ""
 
         val ccc = ""
-        val xxx = "testa"
+        val xxxee = "testa"
 
         val aaa1 = ""
-        val bbb1 = ""
+        val b4bb1 = ""
 
         val ccc1 = ""
         val xx1x = "testa"
