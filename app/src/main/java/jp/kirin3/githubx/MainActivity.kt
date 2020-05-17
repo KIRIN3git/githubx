@@ -33,6 +33,5 @@ class MainActivity : AppCompatActivity() {
 
         val cc312c = ""
         val x3332xx = "testa"
-        val x3332xx4 = "testa"
     }
 }
